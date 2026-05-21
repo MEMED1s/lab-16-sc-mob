@@ -1,4 +1,4 @@
-<img width="822" height="83" alt="pic4" src="https://github.com/user-attachments/assets/eea292fd-c930-43b7-bdce-08e91609f4ba" /># LAB 16 — Inspection HTTPS Android : Désactivation du SSL Pinning avec Objection + Proxy
+img width="822" height="83" alt="pic4" src="https://github.com/user-attachments/assets/eea292fd-c930-43b7-bdce-08e91609f4ba" /># LAB 16 — Inspection HTTPS Android : Désactivation du SSL Pinning avec Objection + Proxy
 
 **Cours : Sécurité des applications mobiles**  
 **Thème : Analyse HTTPS Android avec Frida, Objection et ADB**
